@@ -28,4 +28,4 @@ AI Agent (L'Agent IA) : Le cœur du workflow. Il est programmé avec des instruc
 
 Google Gemini Chat Model (Le modèle LLM) : Utilise l'IA gemini-3.5-flash pour analyser les données textuelles, faire les recherches et synthétiser les offres sous forme de fiches de lecture standardisées.
 
-Send a message in Gmail (Outil d'envoi) : Une fois la veille terminée, l'agent utilise cet outil pour envoyer directement le rapport finalisé par email à l'adresse indiquée (aubinclaudeboussougou@yahoo.com).
+Send a message in Gmail (Outil d'envoi) : Une fois la veille terminée, l'agent utilise cet outil pour envoyer directement le rapport finalisé par email à l'adresse indiquée.
